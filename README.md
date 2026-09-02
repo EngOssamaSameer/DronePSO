@@ -1,4 +1,5 @@
 # Drone Material Optimization using Particle Swarm Optimization (PSO)
+<img width="946" height="456" alt="image" src="https://github.com/user-attachments/assets/92fa7da9-0fd0-4be3-9d98-bbed23088271" />
 
 ## Overview
 
