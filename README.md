@@ -127,7 +127,3 @@ fitness ≈ 0
 This corresponds to the example's optimal **1:3 aluminum-to-plastic
 ratio**.
 
-## Reference
-
-The notebook uses the Booth function as the optimization objective and
-references Wikipedia's article on test functions for optimization.
